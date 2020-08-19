@@ -3,7 +3,7 @@
 Live code: http://kimflores-bbc.netlify.app
 
 # How It's Made:
-## Tech used: 
+### Tech used: 
 My task was to replicate the BBC homepage with **HTML** and **CSS**. I was given a screenshot as reference and implemented media queries for responsiveness.
 
 ![BBC Final](BBCimg.png)
