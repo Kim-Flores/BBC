@@ -14,11 +14,11 @@ Using floats was a bit tricky with the amount of images but marking up the site 
 # Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
-JWLI: https://kimflores-jwli.netlify.app
+JWLI: https://github.com/Kim-Flores/JWLI
 
-Yelp: https://kimflores-yelp.netlify.app
+Yelp: https://github.com/Kim-Flores/Yelp
 
-Level Ground: https://kimflores-levelground.netlify.app
+Level Ground: https://github.com/Kim-Flores/Level-ground
 
-Venture Beat: https://kimflores-venturebeat.netlify.app
+Venture Beat: https://github.com/Kim-Flores/Venture-Beat
 
